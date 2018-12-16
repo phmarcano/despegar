@@ -1,0 +1,6 @@
+{
+    "name": "pedro/despegar",
+    "require": {
+        "vlucas/phpdotenv": "^2.5"
+    }
+}
